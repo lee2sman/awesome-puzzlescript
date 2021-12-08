@@ -12,7 +12,7 @@ PuzzleScript is an open-source HTML5 puzzle game engine built by [Stephen "Incre
 - [PuzzleScript: The free puzzle-building tool that lets you make games in minutes](https://www.pcgamer.com/puzzlescript-the-free-puzzle-building-tool-that-lets-you-make-games-in-minutes/) article in PC Gamer
 
 ### PuzzleScript Forks
-- [PuzzlesSript Plus](https://auroriax.github.io/PuzzleScript/) - A combination of multiple forks including a puzzle solver, some mouse support, variable sprite size and more
+- [PuzzleScript Plus](https://auroriax.github.io/PuzzleScript/) - A combination of multiple forks including a puzzle solver, some mouse support, variable sprite size and more
 - [Solver For PuzzleScript](https://github.com/marcosdon/PuzzleScriptWithSolver/blob/master/README.md) - A basic puzzle solver for levels
 - [Accessible PuzzleScript](https://github.com/philschatz/puzzlescript) - Adds many modifications including allowing embedding, supporting blind people to play video games, and use of the Terminal
 
@@ -25,7 +25,7 @@ PuzzleScript is an open-source HTML5 puzzle game engine built by [Stephen "Incre
 
 ### Resources
 - [Puzzlescript Google Group](https://groups.google.com/g/puzzlescript) - Email list for help and sharing
-- [PuzzleScript+MIS](https://dekeyser.ch/puzzlescriptmis/) - a mixed initiative tool for interactively co-creating puzzle games together with your computer)
+- [PuzzleScript+MIS](https://dekeyser.ch/puzzlescriptmis/) - a mixed initiative tool for interactively co-creating puzzle games together with your computer
 
 ### Contributing
 Feel free to submit a pull request, GitHub issue or write directly using my contact info.
