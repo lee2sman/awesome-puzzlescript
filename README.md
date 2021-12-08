@@ -10,6 +10,7 @@ PuzzleScript is an open-source HTML5 puzzle game engine built by [Stephen "Incre
 
 - [PuzzlesScript Tutorials by Stuart's Pixel Games](https://stuartspixelgames.com/puzzle-script-tutorials/) - a series of tutorials with beginner, intermediate and advanced tuts
 - [PuzzleScript: The free puzzle-building tool that lets you make games in minutes](https://www.pcgamer.com/puzzlescript-the-free-puzzle-building-tool-that-lets-you-make-games-in-minutes/) article in PC Gamer
+- [PuzzleScript Rules](https://ohiofi.com/blog/puzzlescript-rules/) - example rules you can use in your games
 
 ### PuzzleScript Forks
 - [DungeonScript](http://farbs.org/dungeonscript) - A modification that renders out 3d voxel games
