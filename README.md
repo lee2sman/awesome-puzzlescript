@@ -1,6 +1,6 @@
 # Awesome PuzzleScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of all things PuzzleScript.
+A curated list of all things [PuzzleScript](https://puzzlescript.net).
 
 PuzzleScript is an open-source HTML5 puzzle game engine built by [Stephen "Increpare" Lavelle](https://www.increpare.com/). Puzzlescript is used to make tile-based games in the tradition of the classic japanese video game Sokoban. 
 
