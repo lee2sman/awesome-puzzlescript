@@ -26,6 +26,7 @@ PuzzleScript is an open-source HTML5 puzzle game engine built by [Stephen "Incre
 ### Resources
 - [Puzzlescript Google Group](https://groups.google.com/g/puzzlescript) - Email list for help and sharing
 - [PuzzleScript+MIS](https://dekeyser.ch/puzzlescriptmis/) - a mixed initiative tool for interactively co-creating puzzle games together with your computer
+- [Pedro's Game Bar](https://pedropsi.github.io/game-bar.html#) - a javascript library you can add to your games that adds a game bar that includes buttons for fullscreen, level selector, undo move, redo move.
 
 ### Contributing
 Feel free to submit a pull request, GitHub issue or write directly using my contact info.
